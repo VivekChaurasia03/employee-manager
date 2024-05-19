@@ -1,0 +1,71 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# BlueJ
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+# Spring Boot
+/spring-boot-devtools.properties
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle
+build/
+out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Mac
+.DS_Store
+
+# Linux
+*~
+.nfs*
+
+# Logs and databases
+*.sql
+*.sqlite
+
+# Temporary files
+temp/
+tmp/
+
+# VS code
+.vscode/*
